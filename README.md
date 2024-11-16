@@ -1,18 +1,10 @@
 <p align="center">
-  <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
+    <img src="Images/Logo/tuxPreview.png" alt="Techfetch" width=1920 height=1080>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">Techfetch</h3>
 
-  <p align="center">
-    Short description
-    <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
-  </p>
-</p>
+  <p align="center"> Techfetch is a light(ish) Neofetch like CLI tool :D </p>
 
 
 ## Table of contents
@@ -29,48 +21,34 @@
 
 ## Quick start
 
-Some text
-
-- Instruction 1
-- Instruction 2
-- Instruction 3
-
-## Status
-
-Here goes all the budgets
+Sorry about it you can edit it but this was hard to do okie? (｡•́︿•̀｡) (I trieddd sumone help mehh ᴖ̈):
+1. Download TechFetch folder & techfetch file
+2. Also please download jp2a :D
+3. Make Techfetch.sh & techfetch both excecutable (Kinda like "chmod +x /usr/local/bin/techfetch | chmod +x /usr/local/bin/TechFetch/Techfetch.sh")
+4. Run in terminal "techfetch" (P.S: techfetch --tux runs tux as pfp :D)
 
 ## What's included
 
-Some text
 
-```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
+
 ```
+/
+└── usr
+     └── .local
+            └── bin
+                 ├──  techfetch(.sh)             
+                 ├──  TechFetch
+                         └── Arch.png
+                         └── Tux.png
+                         └── EndevourOS.png
+                         └── Techfetch.sh
 
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
-
-## Contributing
-
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
-
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
-
+```
 ## Creators
 
 **Creator 1**
 
-- <https://github.com/usernamecreator1>
+- <https://github.com/KapiKaine>
 
 ## Thanks
 
@@ -80,4 +58,4 @@ Some Text
 
 Code and documentation copyright 2023-2024 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
 
-Enjoy :metal:
+I dids it :33333
