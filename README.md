@@ -24,8 +24,9 @@
 Sorry about it you can edit it but this was hard to do okie? (｡•́︿•̀｡) (I trieddd sumone help mehh ᴖ̈):
 1. Download TechFetch folder & techfetch file
 2. Also please download jp2a :D
-3. Make Techfetch.sh & techfetch both excecutable (Kinda like "chmod +x /usr/local/bin/techfetch | chmod +x /usr/local/bin/TechFetch/Techfetch.sh")
-4. Run in terminal "techfetch" (P.S: techfetch --tux runs tux as pfp :D)
+3. Move all downloaded files to usr/.local/bin
+4. Make Techfetch.sh & techfetch both excecutable (Kinda like "chmod +x /usr/local/bin/techfetch | chmod +x /usr/local/bin/TechFetch/Techfetch.sh")
+5. Run in terminal "techfetch" (P.S: techfetch --tux runs tux as pfp :D)
 
 ## What's included
 
