@@ -1,0 +1,16 @@
+#!/bin/bash
+
+Tuxie=$1
+
+if [ $Tuxie == "--tux" ]; then
+    paste <(jp2a /usr/local/bin/TechFetch/Tux.png --color --height=16) <(/usr/local/bin/TechFetch/Techfetch.sh)
+    exit
+fi
+
+if [[ $(awk -F= '/PRETTY_NAME/ {gsub(/"/, "", $2); print $2}' /etc/os-release) == "EndeavourOS" ]]; then
+    paste <(jp2a /usr/local/bin/TechFetch/EndeavourOS.png --color --height=20) <(/usr/local/bin/TechFetch/Techfetch.sh)
+else
+    paste <(jp2a /usr/local/bin/TechFetch/Tux.png --color --height=16) <(/usr/local/bin/TechFetch/Techfetch.sh)
+fi
+
+
