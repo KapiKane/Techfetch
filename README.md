@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Images/Logo/tuxPreview.png" alt="Techfetch" width=960 height=540>
+    <img src="Images/Logo/tuxPreview.png" alt="Techfetch" width=1,189 height=476>
   </a>
 
   <h3 align="center">Techfetch</h3>
