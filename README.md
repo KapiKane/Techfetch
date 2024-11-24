@@ -28,6 +28,15 @@ Sorry about it you can edit it but this was hard to do okie? (｡•́︿•̀�
 4. Make Techfetch.sh & techfetch both excecutable (Kinda like "chmod +x /usr/local/bin/techfetch | chmod +x /usr/local/bin/TechFetch/Techfetch.sh")
 5. Run in terminal "techfetch" (P.S: techfetch --tux runs tux as pfp :D)
 
+DIS SUX >:< SRRY YALL BUT NEW INSTALL :D:
+1. Check releases
+2. Install techfetchInstaller
+3. Change extention from .md to .sh
+4. run chmod +x /path/to/installer/
+5. then run /path/to/installer/
+6. to test run "techfetch"
+ 
+
 ## What's included
 
 
