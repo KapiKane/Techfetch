@@ -66,6 +66,6 @@ Some Text
 
 ## Copyright and license
 
-Code and documentation copyright 2023-2024 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
+Code and documentation copyright 2023-2024 the authors. Code released under the [Creative Commons License](https://creativecommons.org/licenses/by-nc/4.0/deed.en).
 
 I dids it :33333
