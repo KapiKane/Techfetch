@@ -11,7 +11,6 @@
 
 - [Quick start](#quick-start)
 - [Status](#status)
-- [What's included](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
 - [Creators](#creators)
@@ -26,24 +25,6 @@ Depricated the last 2 methods:P :
 2. Move both to a bin
 3. run ```techfetch```
  
-
-## What's included
-
-
-
-```
-/
-└── usr
-     └── .local
-            └── bin
-                 ├──  techfetch(.sh)             
-                 ├──  TechFetch
-                         └── Arch.png
-                         └── Tux.png
-                         └── EndevourOS.png
-                         └── Techfetch.sh
-
-```
 ## Creators
 
 **Creator 1**
