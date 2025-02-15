@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://static.vecteezy.com/system/resources/previews/011/786/593/non_2x/pixel-art-settings-button-with-gear-icon-for-8bit-game-on-white-background-vector.jpg">
+    <img src="https://static.vecteezy.com/system/resources/previews/011/786/593/non_2x/pixel-art-settings-button-with-gear-icon-for-8bit-game-on-white-background-vector.jpg" height="500" width="500">
   </a>
 
   <h3 align="center">Techfetch</h3>
