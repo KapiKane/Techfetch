@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F011%2F786%2F593%2Fnon_2x%2Fpixel-art-settings-button-with-gear-icon-for-8bit-game-on-white-background-vector.jpg&sp=1739611529T4a4b385809c5f92672ff3927dd45953ca1e753e454baa4f928df9751582890e5" alt="Techfetch" width=1000 height=500>
+    <img src="https://static.vecteezy.com/system/resources/previews/011/786/593/non_2x/pixel-art-settings-button-with-gear-icon-for-8bit-game-on-white-background-vector.jpg">
   </a>
 
   <h3 align="center">Techfetch</h3>
